@@ -1,0 +1,1 @@
+This repo will be used to learn Java basics through the Team Treehouse curriculum.
