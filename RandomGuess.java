@@ -6,5 +6,7 @@ public class RandomGuess
     {
         JOptionPane.showMessageDialog(null, "The number is " + 
             (1 + (int)(Math.random() * 10)));
+        
+        System.exit(0);
     }
 }
